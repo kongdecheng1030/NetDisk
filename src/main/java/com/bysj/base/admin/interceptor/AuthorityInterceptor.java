@@ -22,7 +22,7 @@ import com.bysj.base.util.StringUtil;
 /**
  * 权限统一管理拦截器
  * @author Administrator
- * 孔德诚 hahah
+ * 孔德诚 hahah   lalalla
  */
 @Component
 public class AuthorityInterceptor implements HandlerInterceptor{
